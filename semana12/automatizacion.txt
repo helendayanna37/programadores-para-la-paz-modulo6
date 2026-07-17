@@ -1,0 +1,9 @@
+¿Qué evento activa la automatización?
+El flujo se dispara automáticamente en n8n cuando un integrante de la comunidad registra y publica una nueva alerta o exigencia territorial en nuestra plataforma.
+
+¿Qué mensaje se envía a Telegram?
+El sistema envía un aviso inmediato a nuestro canal de coordinación con el siguiente texto:
+"¡Atención red de veeduría! Se ha registrado una nueva causa comunitaria en la plataforma. Por favor, ingresen al sistema seguro para revisar la problemática y definir nuestra ruta de acción."
+
+¿Qué información NO debe enviarse por seguridad?
+Para garantizar la protección y privacidad de la red, este mensaje automatizado nunca incluirá el nombre de quien hace el reporte, su número de documento, su número de celular, las coordenadas exactas de su ubicación, ni testimonios sensibles que puedan exponer a la persona. Todos esos detalles confidenciales deben permanecer protegidos y accesibles únicamente dentro de nuestra base de datos.

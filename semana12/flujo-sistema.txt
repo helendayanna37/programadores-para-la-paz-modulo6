@@ -1,0 +1,7 @@
+Flujo del sistema: Petición en 3 Clics (Protección de la microcuenca)
+
+1. Un joven de la red ambiental identifica un problema durante nuestro mapeo territorial (por ejemplo, contaminación por basuras en una microcuenca) y crea la causa en la plataforma.
+2. La plataforma guarda esta alerta de forma segura en nuestra base de datos, abriendo un espacio digital para la veeduría.
+3. Los vecinos, líderes y demás integrantes del proceso entran a la plataforma y respaldan la causa con un solo clic, manteniendo su identidad protegida.
+4. El sistema cuenta y actualiza en tiempo real los apoyos, haciéndole ver a la comunidad la fuerza colectiva que está tomando la exigencia.
+5. Cuando se alcanza un número importante de apoyos, el sistema genera automáticamente un documento en PDF (como un derecho de petición) con toda la información consolidada, listo para que lo imprimamos y lo radiquemos formalmente ante la alcaldía.

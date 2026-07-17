@@ -1,0 +1,23 @@
+Entidad: Causa
+
+Campos principales y su función:
+- id: El identificador único que el sistema le asigna automáticamente a nuestra alerta.
+  15
+- titulo: El nombre claro y directo de la problemática que identificamos en el recorrido.
+  Taponamiento de la quebrada
+- descripcion: Los detalles de lo que está pasando y cómo impacta nuestra resiliencia biocultural.
+  La acumulación de escombros de una obra cercana está represando el agua, generando un alto riesgo de inundación para las familias de la vereda.
+- fecha: El día exacto en que el joven de la red registra la novedad en la plataforma.
+  17/07/2026
+
+Entidad: Apoyo
+
+Campos principales y su función:
+- id: El número único que registra este respaldo específico en la base de datos.
+  102
+- causa_id: El número que conecta este apoyo directamente con la alerta de la quebrada que creamos arriba.
+  15
+- nombre: El alias o primer nombre del líder que respalda la exigencia, garantizando su seguridad.
+  Mateo
+- fecha: El día y la hora en que la persona le dio clic al botón para sumarse a la causa.
+  17/07/2026
